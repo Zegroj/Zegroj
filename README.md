@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jorge and I'm a Network Engineer.</p>
+<p align="left">My name is Jorge Gomez and I'm a Network Engineer.</p>
 
 ###
 
