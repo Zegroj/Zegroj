@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently interested in Network Automatization, NaC and DevOps</p>
+<p align="left">📚 I'm currently interested in Network Automatization, NaC and DevOps.</p>
 
 ###
 
